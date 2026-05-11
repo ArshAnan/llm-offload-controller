@@ -1,4 +1,4 @@
-##Project Research Update #3
+##Project Research Update #4
 
 We have successfully implemented a complete end-to-end Reinforcement Learning (RL) pipeline for adaptive LLM task offloading. By leveraging the BurstGPT dataset, we developed a custom  simulation environment that evaluates offloading decisions across a three-tier architecture: Local, Edge, and Cloud.
 
